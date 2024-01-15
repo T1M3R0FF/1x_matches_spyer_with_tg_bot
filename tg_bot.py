@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
 
-token = "6919697012:AAGIm9cYVcAKt8kqxcdxJ6Yw7_RWIfnyryo"
+token = ""
 
 bot = telebot.TeleBot(token)
 sent_matches = {}
